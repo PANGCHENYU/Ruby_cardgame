@@ -1,0 +1,2 @@
+# Ruby_cardgame
+Ruby_gosuで作ったの簡単なカードゲーム
